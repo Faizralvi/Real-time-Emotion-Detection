@@ -45,5 +45,12 @@ pip install -r requirements.txt
 
 ---
 
+## TODO:
+- Add Re-Identification so ID number wouldnt go sky high
+- Add GUI at the start
+- Add GUI for control (change source while running, pause, start, fps control)
+- Refactor Code
+
+---
 ✅ **Note:** Make sure `yt-dlp` is installed and accessible from your system path if you plan to stream from YouTube.  
 You can also test your YOLO model by adjusting the `--model` argument to your own `.pt` file.
