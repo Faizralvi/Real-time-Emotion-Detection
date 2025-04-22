@@ -4,7 +4,7 @@ This MVP consists of a `.py` file that runs inference for **person detection and
 It comes with a few features such as:
 
 - Person detection using YOLO with ByteTrack tracking.
-- Realtime face detection inside detected person bounding boxes {using haas bla bla}.
+- Realtime face detection inside detected person bounding boxes using Haar Cascade Classifier.
 - Track history visualization with polylines.
 - Source input from YouTube livestream or local webcam.
 - FPS counter and total person count overlay.
